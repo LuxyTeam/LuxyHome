@@ -28,8 +28,8 @@ const Hero = () => {
                     marginBottom: '1rem',
                     letterSpacing: '-2px'
                 }}>
-                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '1rem' }}>
-                        <img src="/logo.png" alt="LuxyTeam Logo" style={{ width: '80px', height: '80px', objectFit: 'contain' }} />
+                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '1rem' }}>
+                        <img src="/logo.png" alt="LuxyTeam Logo" style={{ width: '120px', height: '120px', objectFit: 'contain' }} />
                         <span className="text-gradient">LuxyTeam</span>
                     </div>
                 </h1>

@@ -46,6 +46,21 @@ const Projects = () => {
       tags: ["TypeScript", "Rest API", "Backend"]
     },
     {
+      title: "Geopiedritas",
+      description: "Interactive educational platform for exploring geological formations and rock types.",
+      tags: ["School Project", "Education", "Interactive"]
+    },
+    {
+      title: "Geocomposicion",
+      description: "Visual composition tool demonstrating geological structures and layers.",
+      tags: ["School Project", "Geology", "Visualization"]
+    },
+    {
+      title: "Metamorphicrocks",
+      description: "Detailed guide to metamorphic rocks, their formation, and classification.",
+      tags: ["School Project", "Science", "Research"]
+    },
+    {
       title: "More Coming Soon",
       description: "Constantly building and innovating. Stay tuned for future releases.",
       tags: ["Future", "Innovation"]
